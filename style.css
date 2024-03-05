@@ -1,0 +1,245 @@
+/* scrapbook section */
+
+section#scrap-sec{
+    background-image: url(mobile\ phone.jpg);
+    background-size: cover;
+}
+.scrap-inbox{
+    height:500px ;
+    text-align: center;
+}
+.trans{
+    background-color: rgba(245, 245, 245, 0.667);
+}
+.s-symbol{
+    height: 80px;
+    margin-top: 100px;
+}
+.video-icon{
+    margin-top: 70px;
+    color:rgba(0, 0, 0, 0.659) ;
+    height: 35px;
+}
+.play{
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.659);
+}
+.down-arrow{
+    height: 35px;
+    margin-top: 30px;
+}
+
+
+
+
+/* link section */
+.link-inbox1{
+    float: left;
+}
+.s-symbol-1{
+    height: 50px;
+    float: left;
+    margin: 5px 0px;
+}
+.scrapd{
+    float: left;
+    margin: 11px 0px;
+}
+.link-inbox2{
+    float: left;
+    text-align: right;
+}
+.f,.v,.p,.d{
+    text-decoration: none;
+    color: black;
+    padding: 15px  ;
+}
+
+
+
+/* browser section */
+section#browser-sec{
+
+}
+.browser-inbox1{
+    height: min-content;
+}
+.i-phone{
+    height: 600px;
+}
+.browser-inbox2{
+    text-align: left;
+    margin-top: 60px;
+}
+.browser{
+    text-size-adjust: 30px;
+    margin:80px 0px 5px 0px;pr
+}
+p.currently{
+    margin-top: 30px;
+    font-size: 25px;
+}
+ 
+.download{
+    margin-top: 30px;
+    float: left;
+    font-size: 25px;
+}
+.download1{
+    margin-left: 10px;
+    margin-top: 30px;
+    float: left;
+    font-size: 25px;
+
+}
+.chrome,.safari{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+/* learn section */
+
+.learn-inbox1{
+    background-image: url(mark.jpg);
+    background-size: cover;
+    height: 300px;
+    margin-top: 120px;
+}
+.learn-inbox2{
+   
+}
+.h2-learn{
+    margin-top: 100px;
+}
+.p-mark{
+    margin-top: 30px;
+    font-size: 25px;
+}
+.p-visit,.p-video{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+/* Pricing section */
+
+.pricing-inbox1{
+    text-align: center;
+    margin-top: 50px;
+}
+.pricing-inbox2{
+    text-align: center;
+}
+/* .line{
+    height: 500px;
+    width: 20px;
+    background-color: blue;
+    float: left;
+} */
+
+.pricing-inbox3{
+    text-align: center;
+    margin-top:30px;
+}
+.unlimit{
+    font-size: 22px;
+    margin-top: 20px;
+}
+.from{
+    font-size: 18px;
+}
+.dollar{
+    font-size: 25px;
+}
+.line{
+    border-left: 1px solid rgba(176, 78, 78, 0.631);
+    border-right: 1px solid rgba(176, 78, 78, 0.631);
+    
+}
+.pricing-inbox4{
+    text-align: center;
+    margin-top:30px;
+}  
+.offline{
+    font-size: 22px;
+    margin-top: 20px;
+}
+.f-r-e-e{
+    font-size: 18px;
+    margin-top: 80px;
+}
+.fr{
+    font-size: 25px;
+}
+.pricing-inbox5{
+    text-align: center;
+    margin-top: 30px;
+}
+.price-down{
+    color: white;
+    text-decoration: none;
+    /* margin: 50px 10px; */
+    display: inline-block;
+    background-color: rgba(255, 0, 0, 0.747);
+    padding: 20px;
+    font-size: large;
+}
+.price-scrapd{
+    font-weight: bold;
+}
+.require{
+    font-size: 18px;
+}
+.span-ios{
+    font-size: 20px;
+}
+.hr{
+    color: 
+}
+
+
+/* built section */
+
+.built-inbox1{
+    text-align: center; 
+    margin-top: 50px;  
+}
+.built-inbox2{
+    text-align: center;   
+}
+.built-inbox3{
+    text-align: center;   
+}
+.built-inbox4{
+    text-align: center;   
+}
+.pic{
+    border-radius: 50%;
+    height: 100px;
+    margin-top: 50px;
+}
+.name{
+    margin-top: 20px;
+}
+
+/* last section */
+
+.last-inbox{
+    text-align: center;
+    margin-top: 50px;
+}
+.blog{
+    padding: 
+}
+
+
+/* final section */
+
+.final-inbox{
+    text-align: center;
+    margin-top:50px ;
+}
+.p-2013{
+    color: rgba(0, 0, 0, 0.298);
+}
